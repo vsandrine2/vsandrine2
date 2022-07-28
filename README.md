@@ -1,0 +1,5 @@
+- # Sobre mim
+- :+1: Meu email de contato é
+- 👋 Oi, eu sou o Vinícius Sandrine
+- 👀 Eu estou interessado em aprender a progamar em novas linguagens
+- 📫 Você pode me encontrar no insta ... @v_sandrine_
