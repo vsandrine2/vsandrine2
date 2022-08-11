@@ -1,5 +1,5 @@
 - # Sobre mim
-- :+1: Meu email de contato é
+- :+1: Meu email de contato é vinicius.cararo@escola.pr.gov.br
 - 👋 Oi, eu sou o Vinícius Sandrine
 - 👀 Eu estou interessado em aprender a progamar em novas linguagens
 - 📫 Você pode me encontrar no insta ... @v_sandrine_
